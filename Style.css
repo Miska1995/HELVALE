@@ -3,6 +3,7 @@ body {
     background-size: cover;
     position: relative;
     background-color: transparent;
+    background-attatchment: fixed;
 }
 
 h1 {
